@@ -1,5 +1,0 @@
-
-This is line one
-Error found in module A
-Everything is working fine
-Another error occurred
